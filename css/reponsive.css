@@ -1,0 +1,115 @@
+@media (max-width:1024px){
+    .banner__form {
+        width: 730px;
+     
+    }
+    .wile{
+        display: flex;
+        background: #245d7b;
+    }
+    .main__menu{
+        display: none;
+    }
+    .main__menu-ipad{
+        display: block;
+    }
+    .nav__input:checked ~.nav__overlay{
+        display: block;
+    }
+    .nav__input:checked ~.nav__mobile{
+        transform: translateX(0);
+    }
+    @keyframes facein{
+        from{
+            opacity: 0;
+        }
+        to{
+            opacity: 1;
+        }
+    }
+    .container__diss-x1__img1 {
+        width: 546px;
+        margin-top: -3px;
+        height: 197px;
+    }
+    .container__diss {
+            display: block;
+    }
+    .grid{
+        width: 900px;
+        padding-left: 0;
+        padding-right: 0;;
+      
+      }
+      .container__diss-x1__heading {
+        top: 328px;
+        width: 555px;
+      }
+      .container__diss-x2 {
+          margin-left: 0;
+      }
+      .container__diss-x2-form {
+        width: 555px;}
+        .fomt_hot {
+            width: 553px;
+        }
+        .content__fomr {
+            width: 555px;}        
+.content__fomr__xx {
+    flex-wrap: wrap;
+}
+.content__fomr {
+    height: 337px;}
+    .content__fomr__xx-1 {
+        width: 143px;}
+.menu__formt_x-tong {
+       display: block;
+        }
+.formt__heading {
+ width: 555px;}
+.fomrt__img-t {
+  width: 544px;}
+ .form__img-t1 {
+                  
+ width: 530px}
+
+ .menu__formt_x-tong1 {
+            
+    height: 809px;}
+    .container__heading {
+        left: 1px;
+    }
+    .container {
+        height: 3587px;
+    }
+    .menu__formt_x-tong2 {height: 820px;
+    }
+    .menu__formt_x-tong3 {
+        width: 555px;}
+        .iframe{
+            width: 515px;
+        }
+        .dissx3__ming {
+            width: 533px;}
+            .container__x3-one {
+                width: 499px;
+                height: 79px;
+            }
+            .container__x3-11 span {
+                margin-left: 212px;
+            }  
+            .menu__form-title h4 {
+                width: 568px;}          
+                .footer {
+                    height: 862px;
+
+                    width: 555px;}  
+.footer__link {
+    margin-left: 20px;
+
+display: block;
+}  
+                    
+
+
+}
